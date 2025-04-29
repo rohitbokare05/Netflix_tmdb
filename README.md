@@ -123,14 +123,14 @@ lib/
 
 📸 Screenshots (Optional Placeholder)
 -------------------------------------
-### Home Screen
-![Home Screen](assets/home_screen.png)
+## 📸 Screenshots
 
-### Search Screen
-![Search Screen](assets/search_screen.png)
+<p align="center">
+  <img src="assets/home_screen.png" alt="Home Screen" width="30%" style="margin-right: 10px;" />
+  <img src="assets/search_screen.png" alt="Search Screen" width="30%" style="margin-right: 10px;" />
+  <img src="assets/details_screen.png" alt="Details Screen" width="30%" />
+</p>
 
-### Details Screen
-![Details Screen](assets/detail_screen.png)
 
 💬 Credits
 ----------
