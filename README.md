@@ -128,11 +128,11 @@ lib/
 
 Example files:
 
-*   assets/screenshots/home\_screen.png
+*   assets/home\_screen.png
     
-*   assets/screenshots/details\_screen.png
+*   assets/details\_screen.png
     
-*   assets/screenshots/search\_screen.png
+*   assets/search\_screen.png
     
 
 💬 Credits
