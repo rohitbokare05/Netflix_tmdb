@@ -1,7 +1,7 @@
-🎬 FlutFlix - Flutter Netflix Clone App
+🎬 Netflix Clone App
 =======================================
 
-Welcome to **FlutFlix**, a beautifully designed **Netflix-like** Flutter application where users can explore trending, top-rated, and upcoming movies, watch trailers, view cast information, and more!
+Welcome to **Netflix**, a beautifully designed Flutter application where users can explore trending, top-rated, and upcoming movies, watch trailers, view cast information, and more!
 
 Built fully in **Flutter**, using **TMDB API** (The Movie Database) to fetch real-time movie, trailer, and cast data.
 
