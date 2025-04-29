@@ -123,17 +123,14 @@ lib/
 
 📸 Screenshots (Optional Placeholder)
 -------------------------------------
+### Home Screen
+![Home Screen](assets/home_screen.png)
 
-(You can add real screenshots later.)
+### Search Screen
+![Search Screen](assets/search_screen.png)
 
-Example files:
-
-*   assets/home\_screen.png
-    
-*   assets/details\_screen.png
-    
-*   assets/search\_screen.png
-    
+### Details Screen
+![Details Screen](assets/detail_screen.png)
 
 💬 Credits
 ----------
